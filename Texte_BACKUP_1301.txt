@@ -1,0 +1,7 @@
+en mMaster primera escritura
+<<<<<<< HEAD
+modificacio en rama mMaster
+=======
+
+escrit fet en la rama Brnach1
+>>>>>>> branch1

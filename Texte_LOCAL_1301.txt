@@ -1,4 +1,2 @@
 en mMaster primera escritura
 modificacio en rama mMaster
-escrit fet en la rama Brnach1
-
